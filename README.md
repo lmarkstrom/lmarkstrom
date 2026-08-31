@@ -30,14 +30,6 @@ I’m currently wrapping up my M.Sc. in Machine Learning at KTH, finished my CS 
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=lmarkstrom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=lmarkstrom&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linusmarkstrom/)
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.markstrom.dev/)
